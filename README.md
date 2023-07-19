@@ -6,7 +6,7 @@
 
 ## Introducción
 Para este proyecto de la carrera de Data Science de Soy Henry, nos situamos en el rol de un Data Analyst.
-En este contexto, se busca generar un análisis de datos en torno al mundo de las telecomunicaciones, con el fin de orientar a una empresa a incursionar en este rubro, identificando oportunidades de crecimiento y poder plantear soluciones.
+En este contexto, se busca generar un análisis de datos en torno al mundo de las telecomunicaciones, con el fin de identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
 ## Objetivos
 - Realizar un Análisis Exploratorio de los datos obtenidos (EDA).

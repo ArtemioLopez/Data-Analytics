@@ -24,14 +24,14 @@ En el desarrollo de este proyecto se tuvieron en cuenta características como:
 Estos aspectos se contemplaron con el fin de poder tomar mejores decisiones que permitan a la empresa aumentar sus ventas, así también brindar un mejor servicio y tener un mayor alcance en el mercado de las telecomunicaciones.
 
 ## Algunos detalles del análisis
-- Servicios 
+- ### Servicios 
 
 A lo largo del análisis pudimos observar algunos aspectos interesantes que pueden dar un buen contexto en términos del acceso a internet en Argentina, uno de ellos es como el servicio de "Dial Up" a mermado rotundamente en contraste con un servicio de mayor calidad como puede ser la banda ancha fija  
 
 <img src="Imagenes_EDA\output2.png" alt="Texto alternativo" width="500" height="400">
 <img src="Imagenes_EDA\output.png" alt="Texto alternativo" width="500" height="400">
 
-- Cambio en las velocidades en Mbps(Megabit por segundo).
+- ### Cambio en las velocidades en Mbps(Megabit por segundo).
 
 Es evidente que año tras año se ha incrementado la oferta de Mbps de Internet, lo que refleja una demanda constante en el país. No obstante, también es claro que existen algunas provincias que aún tienen un rezago en este aspecto y no han alcanzado niveles similares.
 
@@ -45,7 +45,7 @@ Es evidente que año tras año se ha incrementado la oferta de Mbps de Internet,
 
 <img src="Imagenes_EDA\output8.png" alt="Texto alternativo" width="800" height="500">
 
-- Tecnólogias:
+- ### Tecnólogias:
 
 En términos de tecnología y en paralelo con lo que sucede con las velocidades brindadas a lo largo del tiempo, es notorio un recambio en este aspecto. 
 El uso de servicios como ADSL a caído notoriamente en relación con lo que ha aumentado el empleo de Fibra óptica o Cablemodem, que brindan mayor calidad y velocidad en el servicio.

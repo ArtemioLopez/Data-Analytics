@@ -35,13 +35,15 @@ A lo largo del análisis pudimos observar algunos aspectos interesantes que pued
 
 Es evidente que año tras año se ha incrementado la oferta de Mbps de Internet, lo que refleja una demanda constante en el país. No obstante, también es claro que existen algunas provincias que aún tienen un rezago en este aspecto y no han alcanzado niveles similares.
 
-<img src="Imagenes_EDA\output4.png" alt="Texto alternativo" width="600" height="500">
-<img src="Imagenes_EDA\output5.png" alt="Texto alternativo" width="600" height="500">
+<img src="Imagenes_EDA\output4.png" alt="Texto alternativo" width="800" height="500">
 
-<img src="Imagenes_EDA\output6.png" alt="Texto alternativo" width="600" height="500">
-<img src="Imagenes_EDA\output7.png" alt="Texto alternativo" width="600" height="500">
+<img src="Imagenes_EDA\output5.png" alt="Texto alternativo" width="800" height="500">
 
-<img src="Imagenes_EDA\output8.png" alt="Texto alternativo" width="600" height="500">
+<img src="Imagenes_EDA\output6.png" alt="Texto alternativo" width="800" height="500">
+
+<img src="Imagenes_EDA\output7.png" alt="Texto alternativo" width="800" height="500">
+
+<img src="Imagenes_EDA\output8.png" alt="Texto alternativo" width="800" height="500">
 
 - Tecnólogias:
 

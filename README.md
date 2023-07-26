@@ -64,6 +64,7 @@ Nuestro análisis revela un mercado prometedor y receptivo a los servicios de in
 ## Contenido del Repositorio
 - Datasets: donde se encuentran la fuente de los datos
 - Datasets_normalizados: acá se encuentran los datasets normalizados.
+- Imagenes_EDA: se disponen las imagenes usadas en el README
 - ETL: Es un notebook que cuenta con todas las transformaciones realizadas a los datasets
 - Presentación: donde se encuentra la presentación realizada en Power BI.
 - El archivo README.md

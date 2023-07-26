@@ -31,7 +31,7 @@ A lo largo del análisis pudimos observar algunos aspectos interesantes que pued
 <img src="Imagenes_EDA\output2.png" alt="Texto alternativo" width="500" height="400">
 <img src="Imagenes_EDA\output.png" alt="Texto alternativo" width="500" height="400">
 
-- ### Cambio en las velocidades en Mbps(Megabit por segundo).
+- ### Cambio en las velocidades en Mbps(Megabit por segundo) al año.
 
 Es evidente que año tras año se ha incrementado la oferta de Mbps de Internet, lo que refleja una demanda constante en el país. No obstante, también es claro que existen algunas provincias que aún tienen un rezago en este aspecto y no han alcanzado niveles similares.
 

@@ -26,7 +26,7 @@ Estos aspectos se contemplaron con el fin de poder tomar mejores decisiones que 
 ## Algunos detalles del análisis
 - Servicios 
 
-A lo largo del análisis pudimos observar algunos aspecto interesantes que pueden dar un buen contexto en términos del acceso a internet en Argentina, uno de ellos es como el servicio de "Dial Up" a mermado rotundamente en contraste con un servicio de mayor calidad como puede ser la banda ancha fija 
+A lo largo del análisis pudimos observar algunos aspectos interesantes que pueden dar un buen contexto en términos del acceso a internet en Argentina, uno de ellos es como el servicio de "Dial Up" a mermado rotundamente en contraste con un servicio de mayor calidad como puede ser la banda ancha fija  
 
 <img src="Imagenes_EDA\output2.png" alt="Texto alternativo" width="500" height="400">
 <img src="Imagenes_EDA\output.png" alt="Texto alternativo" width="500" height="400">
@@ -48,7 +48,7 @@ Es evidente que año tras año se ha incrementado la oferta de Mbps de Internet,
 En términos de tecnología y en paralelo con lo que sucede con las velocidades brindadas a lo largo del tiempo, es notorio un recambio en este aspecto. 
 El uso de servicios como ADSL a caído notoriamente en relación con lo que ha aumentado el empleo de Fibra óptica o Cablemodem, que brindan mayor calidad y velocidad en el servicio.
 
-<img src="Imagenes_EDA\output3.png" alt="Texto alternativo" width="700" height="600">
+<img src="Imagenes_EDA\output3.png" alt="Texto alternativo" width="700" height="800">
 
 
 ## Conclusión

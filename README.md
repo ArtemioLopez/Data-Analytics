@@ -62,7 +62,9 @@ Nuestro análisis revela un mercado prometedor y receptivo a los servicios de in
 - Power Bi
 
 ## Contenido del Repositorio
-- Datasets: donde se encuentran los datasets que se emplearon para llevar a cabo el EDA y el dashboard.
+- Datasets: donde se encuentran la fuente de los datos
+- Datasets_normalizados: acá se encuentran los datasets normalizados.
+- ETL: Es un notebook que cuenta con todas las transformaciones realizadas a los datasets
 - Presentación: donde se encuentra la presentación realizada en Power BI.
 - El archivo README.md
 
